@@ -1,0 +1,50 @@
+Day 1
+    (('Hendrik', 'Leon'), ('An', 'Julius'))
+    (('Flo', 'Martin'), ('Stefan', 'Hendrik'))
+    (('Alex', '_'), ('Flo', 'Mick'))
+
+    (('Mick', 'Stefan'), ('Alex', 'Flo'))
+    (('Tobi', 'Leon'), ('Mick', 'Martin'))
+    (('Hendrik', '_'), ('Bene', 'Leon'))
+
+Day 2
+    (('Mick', 'Julius'), ('Alex', 'Leon'))
+    (('Bene', 'Martin'), ('Stefan', 'Leon'))
+    (('Bene', '_'), ('Tobi', 'Flo'))
+
+    (('Martin', 'Stefan'), ('Mick', 'Hendrik'))
+    (('Alex', 'Bene'), ('Flo', 'Julius'))
+    (('An', '_'), ('Alex', 'Stefan'))
+
+Day 3
+    (('An', 'Martin'), ('Tobi', 'Stefan'))
+    (('Alex', 'Julius'), ('Bene', 'Flo'))
+    (('Stefan', '_'), ('Martin', 'Julius'))
+
+    (('Mick', 'Leon'), ('An', 'Stefan'))
+    (('An', 'Tobi'), ('Bene', 'Mick'))
+    (('Tobi', '_'), ('Flo', 'Hendrik'))
+
+Day 4
+    (('An', 'Mick'), ('Leon', 'Julius'))
+    (('Flo', 'Stefan'), ('Alex', 'Tobi'))
+    (('Martin', '_'), ('An', 'Hendrik'))
+
+
+    (('Alex', 'Mick'), ('Bene', 'Hendrik'))
+    (('Martin', 'Hendrik'), ('Tobi', 'Julius'))
+    (('Leon', '_'), ('Bene', 'Tobi'))
+
+Day 5
+    (('Tobi', 'Mick'), ('Alex', 'Hendrik'))
+    (('Flo', 'Leon'), ('Bene', 'An'))
+    (('Flo', '_'), ('An', 'Leon'))
+
+    (('Tobi', 'Hendrik'), ('Bene', 'Julius'))
+    (('Tobi', 'Martin'), ('Alex', 'An'))
+    (('Mick', '_'), ('Stefan', 'Julius'))
+
+Day 6
+    (('Martin', 'Leon'), ('Hendrik', 'Julius'))
+    (('Bene', 'Stefan'), ('An', 'Flo'))
+    (('Julius', '_'), ('Alex', 'Martin'))

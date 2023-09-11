@@ -1,0 +1,50 @@
+Day 1
+    (('Hendrik', 'Leon'), ('An', 'Julius'))             10:3    5   5   3   0
+    (('Flo', 'Martin'), ('Stefan', 'Hendrik'))          10:11   4   6   8.5 2.5 
+    (('Alex', '_'), ('Flo', 'Mick'))                    10:9    10  0   5   4
+
+    (('Mick', 'Stefan'), ('Alex', 'Flo'))               9:10    5   4   6   4
+    (('Bene', '_'), ('Tobi', 'Flo'))                    11:4    11  0   2   2
+    (('Hendrik', '_'), ('Bene', 'Leon'))                11:6    11  0   5   1 
+
+Day 2
+    (('Tobi', 'Leon'), ('Mick', 'Martin'))              7:10    5   2   6   4
+    (('Mick', 'Julius'), ('Alex', 'Leon'))              9:10    6   3   6   4
+    (('Bene', 'Martin'), ('Stefan', 'Leon'))            10:5    5   5   2   3
+
+    (('Martin', 'Stefan'), ('Mick', 'Hendrik'))         12:8    6.5 5.5 3   5       
+    (('Tobi', 'Hendrik'), ('Bene', 'Julius'))           8:10    5   3   6   4
+    (('An', '_'), ('Alex', 'Stefan'))                   10:5    10  0   2   3   
+
+Day 3
+    (('An', 'Martin'), ('Tobi', 'Stefan'))              10:9    6   4   5   4
+    (('Alex', 'Julius'), ('Bene', 'Flo'))               9:10    5   4   3   7   
+    (('Stefan', '_'), ('Martin', 'Julius'))             9:10    9   0   3   7   
+
+    (('Mick', 'Leon'), ('An', 'Stefan'))                11:9    5   6   4   5
+    (('An', 'Tobi'), ('Bene', 'Mick'))                  10:6    4   6   3   3
+    (('Tobi', '_'), ('Flo', 'Hendrik'))                 11:9    11  0   4   5
+
+Day 4
+    (('An', 'Mick'), ('Leon', 'Julius'))                10:4    5   5   2   2   
+    (('Flo', 'Stefan'), ('Alex', 'Tobi'))               8:10    3.5 4.5   5   5
+    (('Martin', '_'), ('An', 'Hendrik'))                9:9     9   0     5   4
+
+
+    (('Alex', 'Mick'), ('Bene', 'Hendrik'))             9:10    7   2   6   4
+    (('Martin', 'Hendrik'), ('Tobi', 'Julius'))         9:10    3   6   7   3
+    (('Leon', '_'), ('Bene', 'Tobi'))                   10:9    10  0   5   4
+
+Day 5
+    (('Flo', 'Leon'), ('Bene', 'An'))                   9:10    5   4   5.5 4.5
+    (('Tobi', 'Mick'), ('Alex', 'Hendrik'))             10:11   5   5   4.5 6.5
+    (('Flo', '_'), ('An', 'Leon'))                      9:10    9   0   7   3
+
+    (('Alex', 'Bene'), ('Flo', 'Julius'))               11:6    6.5 4.5 3   3
+    (('Tobi', 'Martin'), ('Alex', 'An'))                10:8    4   6   5   3
+    (('Mick', '_'), ('Stefan', 'Julius'))               9:10    9   0   4   6
+
+Day 6
+    (('Martin', 'Leon'), ('Hendrik', 'Julius'))         10:9    6   4   9   0
+    (('Bene', 'Stefan'), ('An', 'Flo'))                 5:10    4   1   5.5 4.5
+    (('Julius', '_'), ('Alex', 'Martin'))               9:11    9   0   6.5 4.5
