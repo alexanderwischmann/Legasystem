@@ -7,11 +7,11 @@ def get_teams_2():
 
     # print("The original list : " + str(members))
 
-    res = []
+    teams = []
     n = len(members)
     for i in range(n):
         for j in range(i+1, n):
-            res.append((members[i], members[j]))
+            teams.append((members[i], members[j]))
 
-    return members, res
+    return members, teams
     # print("All possible pairs : " + str(res))
